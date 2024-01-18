@@ -1,18 +1,21 @@
+# hernandezpalo83-reflex-pokedex
+
+[![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/Reflex-0.2.8+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com)
+
+
 Ejemplo de utilizacion de API desde Reflex Python para la obtencion de datos. Es solo una prueba de concepto para ver como se podria realizar.
 
 En este caso de la API de Pokemon que es gratuita.
-
 
 Aqui podeis ver como quedaria la pagina:
 https://reflex-pokedex.reflex.run 
 
 
-# hernandezpalo83-reflex-pokedex
 
 Un ejemplo practico utilizando componentes, para realizar un portafolio usando la tecnologia de Reflex( "Web apps in pure Python" ) 
 
-[![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/Reflex-0.2.8+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com)
+
 
 ## Proyecto desarrollado con [Python](https://www.python.org/) y [Reflex](https://reflex.dev/) que representa un sitio web
 
